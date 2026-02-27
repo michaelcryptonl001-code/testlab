@@ -1,0 +1,4 @@
+echo "$rar5$16$e259b564697e5ab3d17d899af571870a$15$cca2583ff154a26089368f254d9b005b$8$cc90be216c38eca1" > rar_hashes.txt
+echo "$rar5$16$e259b564697e5ab3d17d899af571870a$15$b27069a51babbb824a2223cef8a4c14c$8$cc90be216c38eca1" >> rar_hashes.txt
+echo "$rar5$16$e259b564697e5ab3d17d899af571870a$15$d5bc7fe8f39732ecbdaf5ba3676f39e6$8$cc90be216c38eca1" >> rar_hashes.txt
+echo "$rar5$16$e259b564697e5ab3d17d899af571870a$15$417544319df5308a5bbaef2d52d4a380$8$cc90be216c38eca1" >> rar_hashes.txt
